@@ -1,3 +1,3 @@
 # QT_StateChart
 
-![Project Image](StateChart.png)
+![Project Image](SC.png)
