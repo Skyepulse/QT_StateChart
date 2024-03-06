@@ -16,5 +16,6 @@ To install the project:
 2. Install QT on your machine
 3. Open the project containing the .pro file
 4. Launch the project and it should render without any problems!
+5. IMPORTANT: in the project settings change the build directory, or disable shadow build!
 
 ![Alt Text](Interface.png)
