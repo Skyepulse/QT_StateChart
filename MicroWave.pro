@@ -20,8 +20,6 @@ HEADERS += \
 FORMS += \
     microwave.ui
 
-TRANSLATIONS += \
-    MicroWave_en_US.ts
 CONFIG += lrelease
 CONFIG += embed_translations
 
